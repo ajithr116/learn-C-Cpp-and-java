@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-
 int age;
 cout<<"enter age " <<endl;
 cin>>age;
@@ -16,8 +15,7 @@ if(age>14)
   else
  {
     cout<<"Teenager";
- }
-}
+ }}
 else
 {
   if (age > 0)
@@ -27,6 +25,4 @@ else
   else
  {
     cout << "Something's wrong";
- }
-}
-}
+ }}}
