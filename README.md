@@ -1,3 +1,7 @@
-iam a begineer . Iam  trying to learn some new stuff about programming.I know robots are replacing humans but only humans can build robots. This is the begining of my c++.
-A lot of confusion
-Alot 0f expenss.
+iam a beginner .
+i used this to find some things .
+i mean
+sometime i forgot some basic things it waste my whole time . 
+that's why uplaoded to here.
+come on guyzzzzz all of them can't remember something.
+It is common.
