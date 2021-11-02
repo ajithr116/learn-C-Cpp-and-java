@@ -1,22 +1,37 @@
 #include<iostream>
+
 using namespace std;
+
 int main()
 {
-    int arr[10], i, num, index;
-    cout<<"Enter 10 Numbers: ";
-    for(i=0; i<10; i++)
-        cin>>arr[i];
-    cout<<"\nEnter a Number to Search: ";
-    cin>>num;
-    for(i=0; i<10; i++)
+    int i,arr[50],search,found;
+    int temp=0;
+
+    cout<<" enter 10 numbers "<<endl;
+    for(i=0;i<10;i++)
     {
-        if(arr[i]==num)
-        {
-            index = i;
-            break;
-        }
+        cin>>arr[i];
     }
-    cout<<"\nFound at Index No."<<index+1;
-    cout<<endl;
+    cout<<"enter the number to search "<<endl;
+    cin>>search;
+
+     for(i=0;i<10;i++)
+    {
+      if(arr[i]==search)
+      {
+          found=i;
+          temp=1;
+          break;
+      }
+    }
+    if(temp==1)
+    {
+      cout<<"element found in the position is "<<found+1;
+    }
+    if(temp==0)
+    {
+        cout<<"Not Found"<<endl;
+    }
+
     return 0;
 }
