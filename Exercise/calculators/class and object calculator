@@ -32,10 +32,10 @@ public:
 int main() {
     int choice;
     Calculator cal; // simple calculator object
-    cout << "Enter 1 Add 2 Numbers"
-        << "\nEnter 2 Subtract 2 Numbers"
-        << "\nEnter 3 Multiply 2 Numbers"
-        << "\nEnter 4 Divide 2 Numbers"
+    cout << "Enter 1. +"
+        << "\nEnter 2. -"
+        << "\nEnter 3. *"
+        << "\nEnter 4. /"
         << "\nEnter 0 To Exit"
         << "\n";
     do {
