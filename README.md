@@ -39,7 +39,7 @@
 
 ## About The Project
 
-![Screen Shot](image/candc++.png)
+![Screen Shot](image/cpp.png)
 
 Welcome to the "Learn C and C++" repository! This repository documents my journey of learning C and C++, from the basics to more advanced concepts. I aim to improve my programming skills, explore low-level programming, and develop efficient and performant code.
 
