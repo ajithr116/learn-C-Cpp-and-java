@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ajithr116/LEARN-C-and-CPP">
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="image/cpp.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Learn C and C++</h3>
@@ -39,7 +39,7 @@
 
 ## About The Project
 
-![Screen Shot](image/cpp.png)
+![Screen Shot](image/candc++.png)
 
 Welcome to the "Learn C and C++" repository! This repository documents my journey of learning C and C++, from the basics to more advanced concepts. I aim to improve my programming skills, explore low-level programming, and develop efficient and performant code.
 
