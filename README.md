@@ -248,8 +248,3 @@ Thank you for your interest in contributing to "Learn C and C++"!
 
 * **Ajith R** - *Degree student* - [Ajith R](https://github.com/ajithr116/) - *Built ReadME Template*
 
-## Acknowledgements
-
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
