@@ -58,9 +58,19 @@ Join me on this adventure as I delve into the world of C and C++. Together, we w
         <li>Learned about variables, data types, and basic I/O in C.</li>
         <li>Wrote a "Hello, World!" program in C.</li>
         <li>Explored the fundamentals of C++ and its differences from C.</li>
-<li>Learned If else and switch</li>
+        <li>Learned If else and switch</li>
     </ul>
-
+    <h5>Day 2 - 29-07-2023</h5>
+    <ul>
+        <li>working of loop</li>
+        <li>Array declaration and swap</li>
+        <li>Prime numbers, Sorting and searching</li>
+    </ul>
+    <h5>Day 3 - 31-07-2023</h5>
+    <ul>
+        <li>Function.</li>
+        <li>Patterns</li>
+    </ul>
     
 
 
