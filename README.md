@@ -71,8 +71,18 @@ Join me on this adventure as I delve into the world of C and C++. Together, we w
         <li>Function.</li>
         <li>Patterns</li>
     </ul>
-    
-
+    <h5>Day 4 - 1-08-2023</h5>
+    <ul>
+        <li>Learned java basics "why learning java ? .... because need to get how tough when switching 1 prg to another"</li> 
+        <li>if else , switch , function</li>
+    </ul>
+  <h5>Day 5 - 2-08-2023</h5>
+    <ul>
+        <li> Class </li> 
+        <li>inheritance</li>
+        <li>polymorphism</li>
+        <li>overloading</li>
+    </ul>
 
 ## Built With
 
