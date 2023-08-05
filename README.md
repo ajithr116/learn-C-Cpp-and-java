@@ -83,7 +83,22 @@ Join me on this adventure as I delve into the world of C and C++. Together, we w
         <li>polymorphism</li>
         <li>overloading</li>
     </ul>
+  <h5>Day 6 - 3-08-2023</h5>
+    <ul>
+        <li> method overriding </li> 
+        <li>abstract</li>
+        <li>public , private and protected</li>
+    </ul>
+     <h5>Day 7 - 5-08-2023</h5>
+    <ul>
+        <li> interface </li> 
+        <li>package</li>
+        <li>exception</li>
+        <li>Threads</li>
+    </ul>
+  ## Done . next is workouting all
 
+    
 ## Built With
 
 Pure C and C++
